@@ -1,4 +1,4 @@
-# Tantangan Kode Mobile Developer
+# Code Challange Mobile Developer
 Untuk bisa bergabung di posisi Mobile Engineer, Anda harus menyelesaikan tantangan berikut ini.
 
 *Catatan: Tantangan ini seharusnya tidak memerlukan waktu pengerjaan lebih dari 48 jam.*
